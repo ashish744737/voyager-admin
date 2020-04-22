@@ -79,11 +79,9 @@ Example<br>
 <hr>
 Reference : https://voyager-docs.devdojo.com/getting-started/installation
 <hr>
-
-If you face any problems you can contact me at : ashish.pasekar@gmail.com<br>
-
 Thanks<br>
-Ashish A Pasekar
+Ashish A Pasekar<br>
+ashish.pasekar@gmail.com<br>
         
         
     
