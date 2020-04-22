@@ -37,15 +37,15 @@ Example
         user : admin@admin.com
         password : password
 10. IF you will face issues like you cant see any images on admin panel then
-    - Go to Config/Filesystem.php
-    - 'disks' =>[
+     Go to Config/Filesystem.php
+     'disks' =>[
         'public' => [
             'driver' => 'local',
             'root' => storage_path('app/public'),
             'url' => env('APP_URL').'/storage',
             'visibility' => 'public',
         ],
-       ],
+      ],
        
        - Change 'url' => env('APP_URL').'/storage', to 'url' => env('APP_URL').'/public/storage',
        You will see images on admin panel
