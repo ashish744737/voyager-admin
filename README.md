@@ -75,10 +75,10 @@ Example<br>
         password:password<br>
  8. If you dont have storage link then create it by using following command<br>
         php artisan storage:link
- 9. Enjoy the project
--------------------------------------------------------------------------
+ 9. Enjoy the project<br>
+<hr>
 Reference : https://voyager-docs.devdojo.com/getting-started/installation
--------------------------------------------------------------------------
+<hr>
 
 If you face any problems you can contact me at : ashish.pasekar@gmail.com<br>
 
