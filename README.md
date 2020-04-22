@@ -50,9 +50,9 @@ Example
        - Change 'url' => env('APP_URL').'/storage', to 'url' => env('APP_URL').'/public/storage',
        You will see images on admin panel
  11. Now enjoy your admin panel....
- ==================================================================================================================================
+ =============================
  How to use current project 
- ==================================================================================================================================
+ =============================
  1. Download / clone project 
         - go to xampp/htdocs 
         - open command promt or terminal and use command : git clone https://github.com/ashish744737/voyager-admin.git
@@ -76,9 +76,9 @@ Example
  8. If you dont have storage link then create it by using following command
         php artisan storage:link
  9. Enjoy the project
-====================================================================================================================================
+=========================================================================
 Reference : https://voyager-docs.devdojo.com/getting-started/installation
-====================================================================================================================================
+=========================================================================
 If you face any problems you can contact me at : ashish.pasekar@gmail.com
 
 Thanks
