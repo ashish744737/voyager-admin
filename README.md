@@ -18,12 +18,12 @@ Example<br>
     DB_DATABASE=voyager_panel<br>
     DB_USERNAME=root<br>
     DB_PASSWORD=<br>
-7. Install voyager without dummy data
+7. Install voyager without dummy data : 
     php artisan voyager:install
     
     or
     
-   Install voyager with dummy data
+   Install voyager with dummy data :
     php artisan voyager:install --with-dummy
 
 8. If you installed without dummy data use following codes
