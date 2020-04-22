@@ -1,5 +1,5 @@
 # Admin Panel in laravel 7 (voyager admin panel)
-Follow the steps to integrate voyager admin panel in laravel 7.
+Please follow the following steps to integrate voyager admin panel in laravel 7.
 1. Create project in laravel : 
     composer create-project laravel/laravel voyager-admin
 2. Set up project :
@@ -50,9 +50,9 @@ Example
        - Change 'url' => env('APP_URL').'/storage', to 'url' => env('APP_URL').'/public/storage',
        You will see images on admin panel
  11. Now enjoy your admin panel....
- =============================
+---------------------------------
  How to use current project 
- =============================
+---------------------------------
  1. Download / clone project 
         - go to xampp/htdocs 
         - open command promt or terminal and use command : git clone https://github.com/ashish744737/voyager-admin.git
