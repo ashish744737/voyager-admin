@@ -76,9 +76,10 @@ Example
  8. If you dont have storage link then create it by using following command
         php artisan storage:link
  9. Enjoy the project
-=========================================================================
+-------------------------------------------------------------------------
 Reference : https://voyager-docs.devdojo.com/getting-started/installation
-=========================================================================
+-------------------------------------------------------------------------
+
 If you face any problems you can contact me at : ashish.pasekar@gmail.com
 
 Thanks
