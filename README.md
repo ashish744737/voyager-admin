@@ -8,16 +8,16 @@ Please follow the following steps to integrate voyager admin panel in laravel 7.
 4. Install voyager package in your project :
     composer require tcg/voyager
 5. Create database in your localhost phpmyadmin. (e.g.  voyager_panel)
-6. set up database configuration in .env file
-    DB_HOST=localhost
-    DB_DATABASE=(your database name)
-    DB_USERNAME=(database user)
-    DB_PASSWORD=(database password)
-Example
-    DB_HOST=localhost
-    DB_DATABASE=voyager_panel
-    DB_USERNAME=root
-    DB_PASSWORD=
+6. set up database configuration in .env file <br>
+    DB_HOST=localhost<br>
+    DB_DATABASE=(your database name)<br>
+    DB_USERNAME=(database user)<br>
+    DB_PASSWORD=(database password)<br>
+Example<br>
+    DB_HOST=localhost<br>
+    DB_DATABASE=voyager_panel<br>
+    DB_USERNAME=root<br>
+    DB_PASSWORD=<br>
 7. Install voyager without dummy data
     php artisan voyager:install
     
