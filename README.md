@@ -77,8 +77,6 @@ Example<br>
         php artisan storage:link
  9. Enjoy the project<br>
 <hr>
-Reference : https://voyager-docs.devdojo.com/getting-started/installation
-<hr>
 Thanks<br>
 Ashish A Pasekar<br>
 ashish.pasekar@gmail.com<br>
